@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.55",
-  "timestamp": 1792427747477,
-  "sha256": "4f2fffb2ee6be62b7bcb4c4058061cc2ad9738955d2340bcea48850f5b04c95f",
+  "versionCode": 58,
+  "versionName": "1.0.57",
+  "timestamp": 1792427956962,
+  "sha256": "ad8611c9f16819b79ebaa3d82818711465803ff463e17fda5c8ad02dc38f4c67",
   "fileSize": 2910176,
   "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/pray-times-ota/refs/heads/main/app.bin"
 }
