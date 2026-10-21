@@ -1,8 +1,11 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.79",
-  "timestamp": 1792594485297,
-  "sha256": "955b8ad749f0969a4aac2ff75a316098d7ce21c9b3a6d7761aada06fa76ef0ad",
-  "fileSize": 2922240,
-  "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/pray-times-ota/refs/heads/main/app.bin"
+  "versionCode": 82,
+  "versionName": "1.0.81",
+  "timestamp": 1792596348000,
+  "sha256": "8aca5b7efc2aebda7231e3f3c44f998331ce875fe413408d6b1ee4ae65e0b5c4",
+  "fileSize": 2925264,
+  "url": "https://raw.githubusercontent.com/mohannad-aldulaimi/pray-times-ota/refs/heads/main/app.bin",
+  "latestApkVersionCode": 2,
+  "apkVersionName": "2.0",
+  "apkDownloadUrl": "https://raw.githubusercontent.com/mohannad-aldulaimi/pray-times-ota/refs/heads/main/app-release.apk"
 }
